@@ -24,7 +24,7 @@
 ![88lin's Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=im0qianqian&langs_count=10&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%2010))
 
 ### Github 贡献图
-[![88lin github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=88lin&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![88lin's GitHub stats](https://github-readme-stats.vercel.app/api?username=88lin&show_icons=true&theme=ayu-mirage)
 </div>
 <div align="center">
   <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
