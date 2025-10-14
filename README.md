@@ -22,7 +22,7 @@
 
 <h2>🏆 GitHub 活动</h2>
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=88lin&theme=merko&custom_title=Louis%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/88lin)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=88lin&theme=merko&custom_title=88lin%20活动图&hide_border=true&point=FFFFFF&days=50)](https://github.com/88lin)
 
 <div align="center">
   <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
