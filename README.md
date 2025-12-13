@@ -1,5 +1,5 @@
 ## 哈喽，你好呀 👋
-一个机械在读本科生，欢迎来到我的Github首页！🍧🍧🍧
+欢迎来到我的Github首页！🍧🍧🍧
 ### 社交主页
 </a>
 <a href="https://github.com/88lin">
