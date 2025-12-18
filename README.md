@@ -2,9 +2,7 @@
 欢迎来到我的Github首页！🍧🍧🍧
 ### 社交主页
 </a>
-<a href="https://github.com/88lin">
-  <img align="left" alt="茉灵智库 Github" width="20px" src="https://cdn.jsdmirror.com/npm/simple-icons@v3/icons/github.svg" />
-</a>
+
 <a href="https://pro.gleeze.com" target="_blank"><img src="https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-%E8%8C%89%E7%81%B5%E6%99%BA%E5%BA%93%E2%9C%A8-pink"></a>&nbsp;&nbsp;
 
 ### **Languages and Tools:**  
