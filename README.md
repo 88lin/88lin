@@ -21,12 +21,6 @@
 </table>
 <div align="center">
 
-<div>
-  <picture>
-    <img src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
-  </picture>
-</div>
-
 <img align="left" width="150" src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=88lin&theme=dark&hide_border=true" />
