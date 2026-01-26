@@ -21,10 +21,9 @@
 </table>
 <div align="center">
 
-<img src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
-
 <div>
   <picture>
+    <img src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
   </picture>
 </div>
 
