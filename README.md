@@ -1,5 +1,9 @@
-## 🙋 Hello
-
+## 🙋‍♂️Hi there
+Welcome to my repositories,I hope you can find something interesting here.
+## 🌱 I’m currently learning
+I'm currently learning Java frameworks, React, MySQL, and Redis, and I'm excited to use these skills to build robust backend systems and applications. Additionally, I'm practicing my coding skills by solving LeetCode problems to sharpen my problem-solving abilities. My ultimate goal is to become a skilled backend engineer and contribute to building reliable and scalable software systems.
+## 📫 How to reach me
+You can reach me via email at 431761794@qq.com.
 ### 🏆 About My Github
 <div align="center">
   <table style="width:100%;">
@@ -23,27 +27,27 @@
 
 <div>
   <picture>
-    <img src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
+    <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/man_run.png" width="250" height="250" />
   </picture>
 </div>
 
-<img align="left" width="150" src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+<img align="left" width="150" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=88lin&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=88lin&theme=light&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=88lin&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="150" src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+<img align="right" width="150" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/right.png" />
 
 <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/base.svg" />
 
 </div>
 
 </div>
-<img width="200%" src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/hr.gif" />
 <div align="center" >
 
-<img src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+<img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/man.png" width="250" height="250" />
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -93,14 +97,14 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
-<img height="100" width="100" src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
-<img height="100" width="100" src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
-<img height="100" width="100" src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/react.webp">
-<img height="95" width="95" src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/vue.webp">
-<img height="100" width="100" src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
-<img height="100" width="100" src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/html.webp">
+<img height="100" width="100" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/cssgif.webp">
+<img height="100" width="100" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/vscode.webp">
+<img height="100" width="100" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/react.webp">
+<img height="95" width="95" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/vue.webp">
+<img height="100" width="100" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/python.webp">
+<img height="100" width="100" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/js.webp">
+<img height="100" width="100" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/github.webp">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-3d-contrib/profile-night-rainbow.svg" />
@@ -110,11 +114,11 @@
 
 </div>
 
-<img width="200%" src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/hr.gif" />
 
 <div align="center">
 
-<img width="36%" src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/githubgif.gif" />
+<img width="36%" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/githubgif.gif" />
 
 <table>
   <tr>
@@ -124,10 +128,6 @@
   <tr>
     <td><img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
     <td><img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/stars.svg" alt="stars" /></td>
@@ -141,7 +141,4 @@
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/c356bb14a4ab09c566fe3add21ecd92a50d17ff1.svg" />
 
-<img src="https://cdn.jsdmirror.com/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
-</div>
-
-</div>
+<img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/icon.png" />
