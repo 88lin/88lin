@@ -1,9 +1,29 @@
 ## 🙋‍♂️Hi there
 Welcome to my repositories,I hope you can find something interesting here.
 ## 🌱 I’m currently learning
-I’m currently learning various AI- and algorithm-related topics, along with core computer science concepts. I enjoy breaking problems down, experimenting with different solutions, and slowly improving my coding and reasoning skills. Right now, I’m focused on learning consistently and building things step by step.
+I’m learning AI, algorithms, and core computer science fundamentals, with a strong interest in problem-solving and hands-on experimentation. Passionate about the IT and internet industry, I explore the beauty of the world through code, growing steadily by learning and building step by step.
 ## 📫 How to reach me
 You can reach me via email at 431761794@qq.com.
+
+---
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);感谢你的来访，祝你有美好的一天!&center=true&size=27)](https://git.io/typing-svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/coding.gif" />
+</picture>
+<div>
+  <a href="https://blog.nuaa.tech"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+  <a href="https://home.nuaa.tech/gzh"><img src="https://img.shields.io/badge/WeChat-微信公众号-07c160" /></a>&emsp;
+  <a href="https://space.bilibili.com/1412014683"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <!-- visitor -->
+  <img src="https://komarev.com/ghpvc/?username=88lin&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+</div>
+
 ## 🏆 About My Github
 <div align="center">
   <table style="width:100%;">
@@ -28,7 +48,6 @@ You can reach me via email at 431761794@qq.com.
     <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/man_run.png" width="250" height="250" />
   </picture>
 </div>
-
 <img align="left" width="150" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/left.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=88lin&theme=dark&hide_border=true" />
@@ -40,8 +59,8 @@ You can reach me via email at 431761794@qq.com.
 </div>
 
 <img width="200%" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/hr.gif" />
-<div align="center" >
 
+<div align="center" >
 <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/man.png" width="250" height="250" />
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -109,8 +128,8 @@ You can reach me via email at 431761794@qq.com.
 </div>
 
 <img width="200%" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/hr.gif" />
-<div align="center">
 
+<div align="center">
 <img width="36%" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/githubgif.gif" />
 <table>
   <tr>
