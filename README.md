@@ -23,9 +23,11 @@ You can reach me via email at 431761794@qq.com.
 </div>
 
 <div align="center">
+<div>
   <picture>
     <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/man_run.png" width="250" height="250" />
   </picture>
+</div>
 
 <img align="left" width="150" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/left.png" />
 <picture>
