@@ -50,12 +50,12 @@ You can reach me via email at 431761794@qq.com.
   </picture>
 </div>
 <img align="left" width="150" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/left.png" />
+<img align="right" width="150" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/right.png" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=88lin&theme=dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=88lin&theme=light&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=88lin&theme=dark&hide_border=true" />
 </picture>
-<img align="right" width="150" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/right.png" />
 <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/base.svg" />
 </div>
 
