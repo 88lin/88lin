@@ -1,10 +1,10 @@
 ## 🙋‍♂️Hi there
 Welcome to my repositories,I hope you can find something interesting here.
 ## 🌱 I’m currently learning
-I'm currently learning Java frameworks, React, MySQL, and Redis, and I'm excited to use these skills to build robust backend systems and applications. Additionally, I'm practicing my coding skills by solving LeetCode problems to sharpen my problem-solving abilities. My ultimate goal is to become a skilled backend engineer and contribute to building reliable and scalable software systems.
+I’m currently learning various AI- and algorithm-related topics, along with core computer science concepts. I enjoy breaking problems down, experimenting with different solutions, and slowly improving my coding and reasoning skills. Right now, I’m focused on learning consistently and building things step by step.
 ## 📫 How to reach me
 You can reach me via email at 431761794@qq.com.
-### 🏆 About My Github
+## 🏆 About My Github
 <div align="center">
   <table style="width:100%;">
     <tr>
@@ -22,14 +22,10 @@ You can reach me via email at 431761794@qq.com.
   </table>
 </div>
 
-</table>
 <div align="center">
-
-<div>
   <picture>
     <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/man_run.png" width="250" height="250" />
   </picture>
-</div>
 
 <img align="left" width="150" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/left.png" />
 <picture>
@@ -38,12 +34,9 @@ You can reach me via email at 431761794@qq.com.
   <img src="https://streak-stats.demolab.com?user=88lin&theme=dark&hide_border=true" />
 </picture>
 <img align="right" width="150" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/right.png" />
-
 <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/base.svg" />
-
 </div>
 
-</div>
 <img width="200%" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/hr.gif" />
 <div align="center" >
 
@@ -111,15 +104,12 @@ You can reach me via email at 431761794@qq.com.
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-3d-contrib/profile-gitblock.svg" />
   <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
-
 </div>
 
 <img width="200%" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/hr.gif" />
-
 <div align="center">
 
 <img width="36%" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/githubgif.gif" />
-
 <table>
   <tr>
     <td><img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
@@ -138,7 +128,6 @@ You can reach me via email at 431761794@qq.com.
     <td><img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
 </table>
-
 <img width="120%" src="https://repobeats.axiom.co/api/embed/c356bb14a4ab09c566fe3add21ecd92a50d17ff1.svg" />
-
 <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/icon.png" />
+</div>
