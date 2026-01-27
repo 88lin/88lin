@@ -12,9 +12,9 @@ You can reach me via email at 431761794@qq.com.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Welcome%20to%20my%20GitHub%20profile%20page;欢迎来到我的%20GitHub%20主页&center=true&size=27)](https://git.io/typing-svg)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/top_img.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/coding.gif" />
+  <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/top_img.gif" />
 </picture>
 <div>
   <a href="https://github.com/88lin"><img src="https://img.shields.io/badge/GitHub-88lin-blue?logo=github" alt="GitHub" title="GitHub" /></a>&emsp;
