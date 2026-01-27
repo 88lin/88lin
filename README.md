@@ -9,7 +9,7 @@ You can reach me via email at 431761794@qq.com.
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);感谢你的来访，祝你有美好的一天!&center=true&size=27)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Welcome%20to%20my%20GitHub%20profile%20page;欢迎来到我的%20GitHub%20主页&center=true&size=27)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/coding.gif" />
