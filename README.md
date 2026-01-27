@@ -17,9 +17,10 @@ You can reach me via email at 431761794@qq.com.
   <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/coding.gif" />
 </picture>
 <div>
-  <a href="https://blog.nuaa.tech"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+  <a href="https://github.com/88lin"><img src="https://img.shields.io/badge/GitHub-88lin-blue?logo=github" alt="GitHub" title="GitHub" /></a>&emsp;
+  <a href="https://blog.nuaa.tech"><img src="https://img.shields.io/badge/Website-茉灵智库-8c36db" /></a>&emsp;
   <a href="https://home.nuaa.tech/gzh"><img src="https://img.shields.io/badge/WeChat-微信公众号-07c160" /></a>&emsp;
-  <a href="https://space.bilibili.com/1412014683"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+  <a href="https://space.bilibili.com/1412014683"><img src="https://img.shields.io/badge/哔哩哔哩-Hathaway-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>&emsp;
   <!-- visitor -->
   <img src="https://komarev.com/ghpvc/?username=88lin&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>
