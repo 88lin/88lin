@@ -25,6 +25,14 @@ You can reach me via email at 431761794@qq.com.
   <img src="https://komarev.com/ghpvc/?username=88lin&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<div>&nbsp;</div>
+
 ## 🏆 About My Github
 <div align="center">
   <table style="width:100%;">
