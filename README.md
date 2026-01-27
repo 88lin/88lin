@@ -31,7 +31,7 @@ You can reach me via email at 431761794@qq.com.
   <img alt="github-snake" src="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-## 🏆 About My Github
+## 🏆 GitHub Overview 🏆
 
 <div align="center">
   <table style="width:100%;">
