@@ -145,16 +145,8 @@ You can reach me via email at 431761794@qq.com.
     <td><img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
     <td><img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/stars.svg" alt="stars" /></td>
     <td><img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
 </table>
 <img width="120%" src="https://repobeats.axiom.co/api/embed/c356bb14a4ab09c566fe3add21ecd92a50d17ff1.svg" />
