@@ -37,7 +37,7 @@ You can reach me via email at 431761794@qq.com.
   <table style="width:100%;">
     <tr>
       <td align="center">
-        <img height='200' src="https://github-readme-stats.vercel.app/api?username=88lin&show_icons=true&hide_border=true" />
+        <img height='200' src="https://github-readme-stats-fast.vercel.app/api?username=88lin&show_icons=true&hide_border=true" />
       </td>
       <td align="center">
         <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=88lin&langs_count=10&hide=Jupyter%20Notebook&hide_border=true&exclude_repo&layout=compact&custom_title=Most%20Used%20Languages%20(Top%2010)" />
