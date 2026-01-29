@@ -59,9 +59,9 @@ You can reach me via email at 431761794@qq.com.
 <img align="left" width="150" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/left.png" />
 <img align="right" width="150" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/right.png" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=88lin&theme=dark&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=88lin&theme=light&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=88lin&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=88lin&theme=radical" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=88lin" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=88lin" />
 </picture>
 <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/base.svg" />
 </div>
