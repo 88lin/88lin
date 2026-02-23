@@ -40,7 +40,7 @@ You can reach me via email at 431761794@qq.com.
         <img height='200' src="https://github-readme-stats-fast.vercel.app/api?username=88lin&show_icons=true&hide_border=true" />
       </td>
       <td align="center">
-        <img height='200' src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=88lin&layout=compact" />
+        <img height='200' src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=88lin&show_icons=true&hide_border=true&layout=compact" />
       </td>
       <tr>
       <td colspan="2" align="center">
