@@ -63,13 +63,9 @@ You can reach me via email at 431761794@qq.com.
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=88lin" />
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=88lin" />
 </picture>
-<img src="https://cdn.jsdmirror.com/gh/88lin/88lin/github-metrics/base.svg" />
 </div>
 
-<img width="200%" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/hr.gif" />
-
 <div align="center" >
-<img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/man.png" width="250" height="250" />
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
