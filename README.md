@@ -44,7 +44,7 @@ You can reach me via email at 431761794@qq.com.
       </td>
       <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=88lin&theme=react-dark&custom_title=GitHub%20活动图&hide_border=true&point=FFFFFF&days=50" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=88lin&theme=react-dark&hide_border=true&point=FFFFFF" />
       </td>
     </tr>
   </table>
