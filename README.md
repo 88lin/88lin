@@ -130,7 +130,3 @@ You can reach me via email at 431761794@qq.com.
   <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 </div>
-
-<div align="center">
-<img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/icon.png" />
-</div>
