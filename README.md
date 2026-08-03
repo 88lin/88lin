@@ -1,15 +1,37 @@
-## 🙋‍♂️Hi there
-Welcome to my repositories,I hope you can find something interesting here.
-## 🌱 I’m currently learning
-I’m learning AI, algorithms, and core computer science fundamentals, with a strong interest in problem-solving and hands-on experimentation. Passionate about the IT and internet industry, I explore the beauty of the world through code, growing steadily by learning and building step by step.
-## 📫 How to reach me
-You can reach me via email at 431761794@qq.com.
+## 🙋‍♂️ Hi there
+
+你好，我是 **88lin** —— 一名扎根 AI 前沿的研究者与工程实践者。
+
+我研究最新的 AI 技术、跟踪行业趋势，再用 AI Agent 工作流把真实项目中的复杂需求，拆解成可交付、可维护、可复盘的工程结果。前沿跑得快，地基得够稳——算法与计算机科学的核心基础，是我同步打磨的另一条主线。
+
+我享受拆解问题、动手实验，对 IT 与互联网行业始终保持热忱：边学习、边构建，把知识一步步变成能力。技术之外，多元的生活经历和好奇心让我保持敏锐，对 AI 前沿的观察与见解，我也会写成文章分享出来。
+
+> Following the AI frontier — and turning it into real, shippable engineering.
+
+## 🧭 我在做什么
+
+| 方向 | 实践内容 |
+| :--- | :--- |
+| 🤖 **AI Agent 工程化** | Codex / Claude Code / pi 多智能体协同，覆盖项目开发、科研研究全流程：代码阅读、开发实现、测试、Code Review 与 GitHub 维护 |
+| 🔌 **MCP 与工具链** | 以 MCP 打通浏览器、GitHub、Notion、文档与部署工具，让 Agent 直接触达真实的项目上下文 |
+| 📚 **知识库与 RAG** | 把项目文档、Issue、FAQ 与设计规范沉淀为可检索的知识库，形成可持续复用的工程记忆 |
+| 🌱 **基础与成长** | 持续打磨算法与计算机科学核心基础，在解决真实问题中学习，在动手构建中成长 |
+
+## 🏆 精选项目
+
+[![video_vip](https://svg.bookmark.style/api?url=https://github.com/88lin/video_vip&mode=light&style=horizontal)](https://github.com/88lin/video_vip)
+[![lofi-radio-web](https://svg.bookmark.style/api?url=https://github.com/88lin/lofi-radio-web&mode=dark&style=horizontal)](https://github.com/88lin/lofi-radio-web)
+[![computer-repair-skill](https://svg.bookmark.style/api?url=https://github.com/88lin/computer-repair-skill&mode=light&style=horizontal)](https://github.com/88lin/computer-repair-skill)
+
+## 📫 联系我
+
+您可以通过以下方式联系我：**431761794@qq.com**。
 
 ---
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Welcome%20to%20my%20GitHub%20profile%20page;欢迎来到我的%20GitHub%20主页&center=true&size=27)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%2088lin;AI%20%E5%89%8D%E6%B2%BF%E7%A0%94%E7%A9%B6%E8%80%85%20%C2%B7%20Agent%20%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%AE%9E%E8%B7%B5%E8%80%85;%E6%8A%8A%E5%A4%8D%E6%9D%82%E9%9C%80%E6%B1%82%EF%BC%8C%E6%8B%86%E6%88%90%E5%8F%AF%E4%BA%A4%E4%BB%98%E7%9A%84%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%9C;Following%20the%20AI%20frontier&center=true&size=27)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/top_img.gif" />
@@ -44,7 +66,7 @@ You can reach me via email at 431761794@qq.com.
       </td>
       <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=88lin&theme=react-dark&hide_border=true&point=FFFFFF" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=88lin&theme=nightowl&hide_border=true" />
       </td>
     </tr>
   </table>
@@ -64,6 +86,14 @@ You can reach me via email at 431761794@qq.com.
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=88lin" />
 </picture>
 </div>
+
+## 🧰 技术栈
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-2563EB?style=flat)
+![RAG](https://img.shields.io/badge/RAG-检索增强生成-059669?style=flat)
+![Agent Skills](https://img.shields.io/badge/Agent-Skills-7C3AED?style=flat)
 
 <div align="center" >
 
@@ -90,15 +120,6 @@ You can reach me via email at 431761794@qq.com.
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
 
-![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
 <!-- svg -->
@@ -113,16 +134,6 @@ You can reach me via email at 431761794@qq.com.
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
-
-<!-- gif -->
-<img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/html.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/cssgif.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 50px; margin-bottom: 0px;" /> 
-<img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/vscode.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/react.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/vue.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 0px; margin-bottom: 0px;" />
-<img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/python.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/js.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/github.webp" alt="icon" width="85" style="width: 85px; height: 85px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-3d-contrib/profile-night-rainbow.svg" />
