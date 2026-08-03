@@ -8,14 +8,30 @@
 
 > Following the AI frontier — and turning it into real, shippable engineering.
 
-## 🧭 我在做什么
+## 🪄 我正在做什么
 
-| 方向 | 实践内容 |
-| :--- | :--- |
-| 🤖 **AI Agent 工程化** | Codex / Claude Code / pi 多智能体协同，覆盖项目开发、科研研究全流程：代码阅读、开发实现、测试、Code Review 与 GitHub 维护 |
-| 🔌 **MCP 与工具链** | 以 MCP 打通浏览器、GitHub、Notion、文档与部署工具，让 Agent 直接触达真实的项目上下文 |
-| 📚 **知识库与 RAG** | 把项目文档、Issue、FAQ 与设计规范沉淀为可检索的知识库，形成可持续复用的工程记忆 |
-| 🌱 **基础与成长** | 持续打磨算法与计算机科学核心基础，在解决真实问题中学习，在动手构建中成长 |
+<table>
+  <tr>
+    <th width="20%">方向</th>
+    <th>实践内容</th>
+  </tr>
+  <tr>
+    <td>🤖 <b>AI Agent 工程化</b></td>
+    <td>Codex / Claude Code / pi 多智能体协同，覆盖项目开发、科研研究全流程：代码阅读、开发实现、测试、Code Review 与 GitHub 维护</td>
+  </tr>
+  <tr>
+    <td>🔌 <b>MCP 与工具链</b></td>
+    <td>以 MCP 打通浏览器、GitHub、Notion、文档与部署工具，让 Agent 直接触达真实的项目上下文</td>
+  </tr>
+  <tr>
+    <td>📚 <b>知识库与 RAG</b></td>
+    <td>把项目文档、Issue、FAQ 与设计规范沉淀为可检索的知识库，形成可持续复用的工程记忆</td>
+  </tr>
+  <tr>
+    <td>🌱 <b>基础与成长</b></td>
+    <td>持续打磨算法与计算机科学核心基础，在解决真实问题中学习，在动手构建中成长</td>
+  </tr>
+</table>
 
 ## 🏆 精选项目
 
