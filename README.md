@@ -1,10 +1,10 @@
 ## 🙋‍♂️ Hi there
 
-你好，我是 **88lin** —— 一名扎根 AI 前沿的研究者与工程实践者。
+你好，我是 **88lin** ——一名 AI 研究者与 Agent 工程实践者。
 
-我研究最新的 AI 技术、跟踪行业趋势，再用 AI Agent 工作流把真实项目中的复杂需求，拆解成可交付、可维护、可复盘的工程结果。前沿跑得快，地基得够稳——算法与计算机科学的核心基础，是我同步打磨的另一条主线。
+我追踪 AI 领域的最新进展，但更在意它们能不能落地：用 AI Agent 工作流把真实项目中的复杂需求，拆解成可交付、可维护、可复盘的工程结果。前沿跑得快，地基更要稳——算法与计算机科学的核心基础，是我同步打磨的另一条主线。
 
-我享受拆解问题、动手实验，对 IT 与互联网行业始终保持热忱：边学习、边构建，把知识一步步变成能力。技术之外，多元的生活经历和好奇心让我保持敏锐，对 AI 前沿的观察与见解，我也会写成文章分享出来。
+比起停留在概念，我更愿意动手把想法跑通：读源码、搭原型、踩坑、复盘，让每一次实践都留下能复用的东西。这些过程里的观察与方法，我会整理成文章分享出来。
 
 > Following the AI frontier — and turning it into real, shippable engineering.
 
@@ -17,19 +17,19 @@
   </tr>
   <tr>
     <td>🤖 <b>AI Agent 工程化</b></td>
-    <td>Codex / Claude Code / pi 多智能体协同，覆盖项目开发、科研研究全流程：代码阅读、开发实现、测试、Code Review 与 GitHub 维护</td>
+    <td>以 Codex / Claude Code / pi 多智能体协同，贯穿开发与科研全流程：代码阅读、开发实现、测试验证、Code Review 与 GitHub 维护</td>
   </tr>
   <tr>
     <td>🔌 <b>MCP 与工具链</b></td>
-    <td>以 MCP 打通浏览器、GitHub、Notion、文档与部署工具，让 Agent 直接触达真实的项目上下文</td>
+    <td>用 MCP 打通浏览器、GitHub、Notion、文档与部署工具，让 Agent 直接触达真实的项目上下文，而不是在真空里猜测</td>
   </tr>
   <tr>
     <td>📚 <b>知识库与 RAG</b></td>
-    <td>把项目文档、Issue、FAQ 与设计规范沉淀为可检索的知识库，形成可持续复用的工程记忆</td>
+    <td>把项目文档、Issue、FAQ 与设计规范沉淀为可检索的知识库，让经验成为可持续复用的工程记忆</td>
   </tr>
   <tr>
     <td>🌱 <b>基础与成长</b></td>
-    <td>持续打磨算法与计算机科学核心基础，在解决真实问题中学习，在动手构建中成长</td>
+    <td>持续打磨算法与计算机科学的核心基础，在解决真实问题中学习，在动手构建中成长</td>
   </tr>
 </table>
 
@@ -41,7 +41,9 @@
 
 ## 📫 联系我
 
-您可以通过以下方式联系我：**431761794@qq.com**。
+欢迎交流 AI Agent 工程化、MCP 工具链与 RAG 知识库，也欢迎聊聊合作与工作机会。
+
+邮箱：**431761794@qq.com**
 
 ---
 
@@ -55,12 +57,11 @@
   <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/top_img.gif" />
 </picture>
 <div>
-  <a href="https://github.com/88lin"><img src="https://img.shields.io/badge/GitHub-88lin-blue?logo=github" alt="GitHub" title="GitHub" /></a>&emsp;
-  <a href="https://blog.88lin.eu.org"><img src="https://img.shields.io/badge/Website-茉灵智库-8c36db" /></a>&emsp;
-  <a href="https://go.88lin.eu.org/gzh"><img src="https://img.shields.io/badge/WeChat-微信公众号-07c160" /></a>&emsp;
-  <a href="https://space.bilibili.com/1412014683"><img src="https://img.shields.io/badge/哔哩哔哩-Hathaway-pink?logo=bilibili" alt="哔哩哔哩" title="哔哩哔哩" /></a>&emsp;
-  <!-- visitor -->
-  <img src="https://komarev.com/ghpvc/?username=88lin&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+  <a href="https://github.com/88lin"><img src="https://img.shields.io/github/followers/88lin?style=flat-square&logo=github&label=Followers&labelColor=0D1117&color=1F6FEB" alt="GitHub Followers" /></a>
+  <a href="https://blog.88lin.eu.org"><img src="https://img.shields.io/badge/Blog-茉灵智库-A78BFA?style=flat-square&logo=ghost&logoColor=white&labelColor=0D1117" alt="博客" /></a>
+  <a href="https://go.88lin.eu.org/gzh"><img src="https://img.shields.io/badge/WeChat-微信公众号-07C160?style=flat-square&logo=wechat&logoColor=white&labelColor=0D1117" alt="微信公众号" /></a>
+  <a href="https://space.bilibili.com/1412014683"><img src="https://img.shields.io/badge/Bilibili-Hathaway-FB7299?style=flat-square&logo=bilibili&logoColor=white&labelColor=0D1117" alt="哔哩哔哩" /></a>
+  <img src="https://komarev.com/ghpvc/?username=88lin&label=Views&color=orange&style=flat-square" alt="访问量统计" />
 </div>
 
 <picture>
