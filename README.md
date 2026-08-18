@@ -83,7 +83,7 @@
       </td>
       <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=88lin&theme=nightowl&hide_border=true" />
+        <img src="https://github-pulse-topaz.vercel.app/u/88lin?size=monitor" />
       </td>
     </tr>
   </table>
