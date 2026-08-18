@@ -33,12 +33,6 @@
   </tr>
 </table>
 
-## 🏆 精选项目
-
-[![video_vip](https://svg.bookmark.style/api?url=https://github.com/88lin/video_vip&mode=light&style=horizontal)](https://github.com/88lin/video_vip)
-[![lofi-radio-web](https://svg.bookmark.style/api?url=https://github.com/88lin/lofi-radio-web&mode=dark&style=horizontal)](https://github.com/88lin/lofi-radio-web)
-[![computer-repair-skill](https://svg.bookmark.style/api?url=https://github.com/88lin/computer-repair-skill&mode=light&style=horizontal)](https://github.com/88lin/computer-repair-skill)
-
 ## 📫 联系我
 
 欢迎交流 AI Agent 工程化、MCP 工具链与 RAG 知识库，也欢迎聊聊合作与工作机会。
