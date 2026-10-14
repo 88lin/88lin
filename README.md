@@ -55,7 +55,7 @@
   <a href="https://blog.88lin.eu.org"><img src="https://img.shields.io/badge/Blog-茉灵智库-A78BFA?style=flat-square&logo=ghost&logoColor=white&labelColor=0D1117" alt="博客" /></a>
   <a href="https://go.88lin.eu.org/gzh"><img src="https://img.shields.io/badge/WeChat-微信公众号-07C160?style=flat-square&logo=wechat&logoColor=white&labelColor=0D1117" alt="微信公众号" /></a>
   <a href="https://space.bilibili.com/1412014683"><img src="https://img.shields.io/badge/Bilibili-Hathaway-FB7299?style=flat-square&logo=bilibili&logoColor=white&labelColor=0D1117" alt="哔哩哔哩" /></a>
-  <img src="https://komarev.com/ghpvc/?username=88lin&label=Views&color=orange&style=flat-square" alt="访问量统计" />
+  <img src="https://komarev.com/ghpvc/?username=88lin&label=Views&color=blue&style=flat-square" alt="访问量统计" />
 </div>
 
 <picture>
