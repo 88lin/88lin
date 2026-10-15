@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%2088lin;AI%20%E5%89%8D%E6%B2%BF%E7%A0%94%E7%A9%B6%E8%80%85%20%C2%B7%20Agent%20%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%AE%9E%E8%B7%B5%E8%80%85;%E6%8A%8A%E5%A4%8D%E6%9D%82%E9%9C%80%E6%B1%82%EF%BC%8C%E6%8B%86%E6%88%90%E5%8F%AF%E4%BA%A4%E4%BB%98%E7%9A%84%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%9C;Following%20the%20AI%20frontier&center=true&size=27)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&center=true&size=27&lines=88lin%20%C2%B7%20AI%20Agent%20%E5%B7%A5%E7%A8%8B%E5%AE%9E%E8%B7%B5%E8%80%85%3B%E8%AF%BB%E6%BA%90%E7%A0%81%20%C2%B7%20%E6%90%AD%E5%8E%9F%E5%9E%8B%20%C2%B7%20%E8%B8%A9%E5%9D%91%E5%A4%8D%E7%9B%98%3B%E6%8A%8A%E5%89%8D%E6%B2%BF%E8%AE%BA%E6%96%87%E5%8F%98%E6%88%90%E8%83%BD%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84%E4%B8%9C%E8%A5%BF%3BFollowing%20the%20AI%20frontier)](https://git.io/typing-svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/top_img.gif" />
@@ -21,11 +21,11 @@
 
 ## 🙋‍♂️ 关于我
 
-你好，我是 **88lin** ——一名 AI 研究者与 Agent 工程实践者。
+你好，我是 **88lin**，一名 AI 研究者与 Agent 工程实践者。
 
-我追踪 AI 领域的最新进展，但更在意它们能不能落地：用 AI Agent 工作流把真实项目中的复杂需求，拆解成可交付、可维护、可复盘的工程结果。前沿跑得快，地基更要稳——算法与计算机科学的核心基础，是我同步打磨的另一条主线。
+我追踪 AI 领域的最新进展，但更在意它们能不能落地：用 Agent 工作流把复杂需求，拆成可交付、可维护、可复盘的工程结果。
 
-比起停留在概念，我更愿意动手把想法跑通：读源码、搭原型、踩坑、复盘，让每一次实践都留下能复用的东西。这些过程里的观察与方法，我会整理成文章分享出来。
+前沿跑得快，地基更要稳——算法与计算机科学的核心基础，是我并行推进的第二条主线。
 
 > Following the AI frontier — and turning it into real, shippable engineering.
 
@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td>🤖 <b>AI Agent 工程化</b></td>
-    <td>以 Codex / Claude Code / pi 多智能体协同，贯穿开发与科研全流程：代码阅读、开发实现、测试验证、Code Review 与 GitHub 维护</td>
+    <td>以 Codex / Claude Code / pi 等多智能体协同，贯穿开发与科研全流程：代码阅读、开发实现、测试验证、Code Review 与 GitHub 维护</td>
   </tr>
   <tr>
     <td>🔌 <b>MCP 与工具链</b></td>
@@ -49,12 +49,12 @@
     <td>把项目文档、Issue、FAQ 与设计规范沉淀为可检索的知识库，让经验成为可持续复用的工程记忆</td>
   </tr>
   <tr>
-    <td>🌱 <b>基础与成长</b></td>
+    <td>🌱 <b>算法与基础</b></td>
     <td>持续打磨算法与计算机科学的核心基础，在解决真实问题中学习，在动手构建中成长</td>
   </tr>
 </table>
 
-## 🚀 GitHub Overview
+## 🚀 GitHub 数据
 
 <div align="center">
   <table style="width:100%;">
@@ -147,7 +147,7 @@
 
 - 📮 邮箱：**bytevian@qq.com**
 - ✍️ 作品集：[茉灵智库 · 88lin](https://dev.88lin.eu.org)
-- 💬 微信公众号 / 小红书 / B站 / 抖音：见主页顶部徽章
+- 💬 社交：[公众号](https://go.88lin.eu.org/gzh) · [小红书](https://www.xiaohongshu.com/user/profile/6a9a3ba20000000013032c00) · [B站](https://space.bilibili.com/1412014683) · [抖音](https://www.douyin.com/user/MS4wLjABAAAAIC5glfOILZlHQDMcIKF0c3o2-BKTivu0BEOdaiLJP0pDQSssB9mlXCxY-M42BD9L)
 
 ---
 
