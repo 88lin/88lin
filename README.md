@@ -27,7 +27,7 @@
 
 前沿跑得快，地基更要稳——算法与计算机科学的核心基础，是我并行推进的第二条主线。
 
-> Following the AI frontier — and turning it into real, shippable engineering.
+> Turning the AI frontier into shippable engineering.
 
 ## 🪄 我正在做什么
 
