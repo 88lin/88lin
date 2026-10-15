@@ -1,4 +1,25 @@
-## 🙋‍♂️ Hi there
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%2088lin;AI%20%E5%89%8D%E6%B2%BF%E7%A0%94%E7%A9%B6%E8%80%85%20%C2%B7%20Agent%20%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%AE%9E%E8%B7%B5%E8%80%85;%E6%8A%8A%E5%A4%8D%E6%9D%82%E9%9C%80%E6%B1%82%EF%BC%8C%E6%8B%86%E6%88%90%E5%8F%AF%E4%BA%A4%E4%BB%98%E7%9A%84%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%9C;Following%20the%20AI%20frontier&center=true&size=27)](https://git.io/typing-svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/top_img.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/top_img.gif" />
+</picture>
+
+<div>
+  <a href="https://github.com/88lin"><img src="https://img.shields.io/github/followers/88lin?style=flat-square&logo=github&label=Followers&labelColor=0D1117&color=1F6FEB" alt="GitHub Followers" /></a>
+  <a href="https://blog.88lin.eu.org"><img src="https://img.shields.io/badge/Blog-茉灵智库-A78BFA?style=flat-square&logo=ghost&logoColor=white&labelColor=0D1117" alt="博客" /></a>
+  <a href="https://www.xiaohongshu.com/user/profile/6a9a3ba20000000013032c00"><img src="https://img.shields.io/badge/小红书-茉灵智库-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white&labelColor=0D1117" alt="小红书" /></a>
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAIC5glfOILZlHQDMcIKF0c3o2-BKTivu0BEOdaiLJP0pDQSssB9mlXCxY-M42BD9L"><img src="https://img.shields.io/badge/抖音-@脆皮-8B5CF6?style=flat-square&logo=douyin&logoColor=white&labelColor=0D1117" alt="抖音" /></a>
+  <a href="https://space.bilibili.com/1412014683"><img src="https://img.shields.io/badge/Bilibili-Hathaway-FB7299?style=flat-square&logo=bilibili&logoColor=white&labelColor=0D1117" alt="哔哩哔哩" /></a>
+  <a href="https://go.88lin.eu.org/gzh"><img src="https://img.shields.io/badge/WeChat-微信公众号-07C160?style=flat-square&logo=wechat&logoColor=white&labelColor=0D1117" alt="微信公众号" /></a>
+</div>
+
+</div>
+
+## 🙋‍♂️ 关于我
 
 你好，我是 **88lin** ——一名 AI 研究者与 Agent 工程实践者。
 
@@ -33,38 +54,6 @@
   </tr>
 </table>
 
-## 📫 联系我
-
-欢迎交流 AI Agent 工程化、MCP 工具链与 RAG 知识库，也欢迎聊聊合作与工作机会。
-
-邮箱：**bytevian@qq.com**
-
----
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%2088lin;AI%20%E5%89%8D%E6%B2%BF%E7%A0%94%E7%A9%B6%E8%80%85%20%C2%B7%20Agent%20%E5%B7%A5%E7%A8%8B%E5%8C%96%E5%AE%9E%E8%B7%B5%E8%80%85;%E6%8A%8A%E5%A4%8D%E6%9D%82%E9%9C%80%E6%B1%82%EF%BC%8C%E6%8B%86%E6%88%90%E5%8F%AF%E4%BA%A4%E4%BB%98%E7%9A%84%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%9C;Following%20the%20AI%20frontier&center=true&size=27)](https://git.io/typing-svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/top_img.gif" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/developer.svg" height="225px" />
-  <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/top_img.gif" />
-</picture>
-<div>
-  <a href="https://github.com/88lin"><img src="https://img.shields.io/github/followers/88lin?style=flat-square&logo=github&label=Followers&labelColor=0D1117&color=1F6FEB" alt="GitHub Followers" /></a>
-  <a href="https://blog.88lin.eu.org"><img src="https://img.shields.io/badge/Blog-茉灵智库-A78BFA?style=flat-square&logo=ghost&logoColor=white&labelColor=0D1117" alt="博客" /></a>
-  <a href="https://www.xiaohongshu.com/user/profile/6a9a3ba20000000013032c00"><img src="https://img.shields.io/badge/小红书-茉灵智库-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white&labelColor=0D1117" alt="小红书" /></a>
-  <a href="https://www.douyin.com/user/MS4wLjABAAAAIC5glfOILZlHQDMcIKF0c3o2-BKTivu0BEOdaiLJP0pDQSssB9mlXCxY-M42BD9L"><img src="https://img.shields.io/badge/抖音-@脆皮-8B5CF6?style=flat-square&logo=douyin&logoColor=white&labelColor=0D1117" alt="抖音" /></a>
-  <a href="https://space.bilibili.com/1412014683"><img src="https://img.shields.io/badge/Bilibili-Hathaway-FB7299?style=flat-square&logo=bilibili&logoColor=white&labelColor=0D1117" alt="哔哩哔哩" /></a>
-  <a href="https://go.88lin.eu.org/gzh"><img src="https://img.shields.io/badge/WeChat-微信公众号-07C160?style=flat-square&logo=wechat&logoColor=white&labelColor=0D1117" alt="微信公众号" /></a>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-</picture>
-
 ## 🚀 GitHub Overview
 
 <div align="center">
@@ -76,7 +65,8 @@
       <td align="center">
         <img height='200' src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=88lin&show_icons=true&hide_border=true&layout=compact" />
       </td>
-      <tr>
+    </tr>
+    <tr>
       <td colspan="2" align="center">
         <img src="https://github-pulse-topaz.vercel.app/u/88lin?size=monitor" />
       </td>
@@ -85,21 +75,31 @@
 </div>
 
 <div align="center">
-<div>
   <picture>
-    <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/man_run.png" width="250" height="250" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
-<img align="left" width="150" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/left.png" />
-<img align="right" width="150" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/right.png" />
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=88lin&theme=radical" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=88lin" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=88lin" />
-</picture>
+
+<div align="center">
+  <div>
+    <picture>
+      <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/man_run.png" width="250" height="250" />
+    </picture>
+  </div>
+  <img align="left" width="150" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/left.png" />
+  <img align="right" width="150" src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/right.png" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=88lin&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/streak?username=88lin" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=88lin" />
+  </picture>
 </div>
 
 ## 🧰 技术栈
+
+<div align="center">
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-C2410C?style=flat&logo=anthropic&logoColor=white)
@@ -109,7 +109,6 @@
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-2563EB?style=flat)
 ![Agent Skills](https://img.shields.io/badge/Agent-Skills-7C3AED?style=flat)
-<div align="center" >
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
@@ -136,16 +135,29 @@
 <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-3d-contrib/profile-gitblock.svg" />
-  <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
+</div>
+
+## 📫 联系我
+
+欢迎交流 AI Agent 工程化、MCP 工具链与 RAG 知识库，也欢迎聊聊合作与工作机会。
+
+- 📮 邮箱：**bytevian@qq.com**
+- ✍️ 作品集：[茉灵智库 · 88lin](https://dev.88lin.eu.org)
+- 💬 微信公众号 / 小红书 / B站 / 抖音：见主页顶部徽章
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-3d-contrib/profile-gitblock.svg" />
+    <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
 </div>
 <div align="center">
-<img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/icon.png" />
+  <img src="https://cdn.jsdmirror.com/gh/88lin/88lin/assets/images/icon.png" />
 </div>
