@@ -11,7 +11,7 @@
 <div>
   <a href="https://github.com/88lin"><img src="https://img.shields.io/github/followers/88lin?style=flat-square&logo=github&label=Followers&labelColor=0D1117&color=1F6FEB" alt="GitHub Followers" /></a>
   <a href="https://blog.88lin.eu.org"><img src="https://img.shields.io/badge/Blog-茉灵智库-A78BFA?style=flat-square&logo=ghost&logoColor=white&labelColor=0D1117" alt="博客" /></a>
-  <a href="https://www.xiaohongshu.com/user/profile/6a9a3ba20000000013032c00"><img src="https://img.shields.io/badge/小红书-茉灵智库-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white&labelColor=0D1117" alt="小红书" /></a>
+  <a href="https://www.xiaohongshu.com/user/profile/6a9a3ba20000000013032c00"><img src="https://img.shields.io/badge/小红书-Zenvoin-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white&labelColor=0D1117" alt="小红书" /></a>
   <a href="https://www.douyin.com/user/MS4wLjABAAAAIC5glfOILZlHQDMcIKF0c3o2-BKTivu0BEOdaiLJP0pDQSssB9mlXCxY-M42BD9L"><img src="https://img.shields.io/badge/抖音-@脆皮-8B5CF6?style=flat-square&logo=douyin&logoColor=white&labelColor=0D1117" alt="抖音" /></a>
   <a href="https://space.bilibili.com/1412014683"><img src="https://img.shields.io/badge/Bilibili-Hathaway-FB7299?style=flat-square&logo=bilibili&logoColor=white&labelColor=0D1117" alt="哔哩哔哩" /></a>
   <a href="https://go.88lin.eu.org/gzh"><img src="https://img.shields.io/badge/WeChat-微信公众号-07C160?style=flat-square&logo=wechat&logoColor=white&labelColor=0D1117" alt="微信公众号" /></a>
