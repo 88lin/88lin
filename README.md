@@ -17,6 +17,9 @@
   <a href="https://go.88lin.eu.org/gzh"><img src="https://img.shields.io/badge/WeChat-微信公众号-07C160?style=flat-square&logo=wechat&logoColor=white&labelColor=0D1117" alt="微信公众号" /></a>
 </div>
 
+<br>
+<a href="https://trendshift.io/developers/12858?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-12858" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/12858" alt="88lin | Trendshift" width="250" height="55"/></a>
+
 </div>
 
 ## 🙋‍♂️ 关于我
